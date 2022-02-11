@@ -1,0 +1,2 @@
+tk  # via pip
+# No linux ainda é necessário instalar o pacote python3-tk via apt ou outro
